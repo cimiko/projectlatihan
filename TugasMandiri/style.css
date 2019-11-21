@@ -1,0 +1,76 @@
+body {
+  margin: auto;padding: auto
+}
+
+#wrapper{
+background-color: black
+}
+
+
+.content1 {
+background-image: url(img/Foto.jpg); background-size: cover; opacity: .7;
+}
+
+.contenth1 {
+  font-size: 50px
+}
+
+.contentp1 {
+  font-size: 20px
+}
+
+.contentp2 {
+  font-size: 20px
+}
+
+.content2  {
+  color: white; text-align: center;
+}
+
+.content3  {
+  background-color: white; text-align: center;
+}
+
+.contenth3  {
+  font-size: 50px ;
+}
+
+.contenth31 {
+  font-size: 20px ; color: grey
+}
+
+.contentp31 {
+  font-size: 20px; color: grey ; margin-top: -8px
+}
+
+.table32 {
+
+}
+
+.contenth13 {
+  font-size: 20px ; text-align: left;
+}
+
+.contentp13 {
+  font-size: 20px; text-align: left;
+}
+
+.contenth14 {
+  font-size: 20px ; text-align: left;
+}
+
+.contentp14 {
+  font-size: 20px; text-align: left;
+}
+
+.contenth15 {
+  font-size: 20px ; text-align: left;
+}
+
+.contentp15 {
+  font-size: 20px; text-align: left;
+}
+
+.img32 {
+
+}
