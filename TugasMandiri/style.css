@@ -52,7 +52,7 @@ background-image: url(img/Foto.jpg); background-size: cover; opacity: .7;
 }
 
 .contentp13 {
-  font-size: 20px; text-align: left;
+  font-size: 20px; text-align: left; margin-top: -10px
 }
 
 .contenth14 {
@@ -60,7 +60,7 @@ background-image: url(img/Foto.jpg); background-size: cover; opacity: .7;
 }
 
 .contentp14 {
-  font-size: 20px; text-align: left;
+  font-size: 20px; text-align: left; margin-top: -10px
 }
 
 .contenth15 {
@@ -68,9 +68,22 @@ background-image: url(img/Foto.jpg); background-size: cover; opacity: .7;
 }
 
 .contentp15 {
-  font-size: 20px; text-align: left;
+  font-size: 20px; text-align: left; margin-top: -10px
 }
 
-.img32 {
 
+.table4 {
+  text-align: center;
+}
+
+.contenth42 {
+  font-size: 50px
+}
+
+.contentp24 {
+  color: grey; font-size: 20px
+}
+
+.table43 {
+  font-size: 20px
 }
