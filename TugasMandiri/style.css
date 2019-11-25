@@ -150,7 +150,7 @@ background-image: url(img/Foto.jpg); background-size: cover;
   margin-top: 50px;
   height: 300px;
   width: 500px;
-  padding-top: 5px;
+  float: left;
 }
 
 .content43 .content-isi1 p{
@@ -166,6 +166,7 @@ background-image: url(img/Foto.jpg); background-size: cover;
   float: right;
   text-align: center;
   margin-right: 350px;
+  margin-top: 50px;
 }
 
 .content43 .content-isi2 p{
@@ -183,6 +184,7 @@ background-image: url(img/Foto.jpg); background-size: cover;
   margin-left: 400px;
   text-align: center;
   margin-top: 50px;
+  float: left;
 }
 
 .content44 .content-isi3 p{
@@ -196,7 +198,7 @@ background-image: url(img/Foto.jpg); background-size: cover;
   height: 300px;
   width: 500px;
   margin-right: 50px;
-  margin-top: -100px;
+  margin-top: px;
 }
 
 .content44 .content-isi4 p{
